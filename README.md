@@ -28,12 +28,13 @@ Created and updated profiles on platforms like GitHub ,Kaggle and  LinkedIn to b
 ![Kaggle](task-2-portfolio/kaggle-profile.png)
 
 ### Task 3 – Platforms
-Solved a beginner coding problems on HackerRank to improve my coding skills  and created a Google Form quiz on digital literacy.
+Solved numerous beginner coding problems on HackerRank to improve my coding skills  and created a Google Form quiz on digital literacy.
 
-![Hackerrank](hackerrank-profile.png)
-![Hackerrank](hackerrank-problem.png)
-![Hackerrank](hackerrank.png)
-👉 Google Form Link: [Paste your link here]
+![Hackerrank](task-3-platforms/hackerrank-profile.png)
+![Hackerrank](task-3-platforms/hackerrank-problem.png)
+![Hackerrank](task-3-platforms/hackerrank.png)
+
+ Google Form Link: [Paste your link here]
 
 ### Task 4 – Email Etiquette
 Drafted two professional emails and created a social media do’s and don’ts checklist.
