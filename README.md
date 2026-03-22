@@ -16,7 +16,16 @@ Created a digital literacy awareness infographic using Canva. It covers topics l
 ![Infographic](task-1-presentation/infographic.png)
 
 ### Task 2 – Digital Portfolio
-Created and updated profiles on platforms like GitHub and LinkedIn to build a professional online presence.
+Created and updated profiles on platforms like GitHub ,Kaggle and  LinkedIn to build a professional online presence.
+#### GitHub
+![GitHub](task-2-portfolio/github-profile.png)
+
+#### LinkedIn
+![LinkedIn1](task-2-portfolio/linkedin1-profile.png)
+![LinkedIn2](task-2-portfolio/linkedin2-profile.png)
+
+#### Kaggle
+![Kaggle](task-2-portfolio/kaggle-profile.png)
 
 ### Task 3 – Platforms
 Solved a beginner coding problem on HackerRank and created a Google Form quiz on digital literacy.
