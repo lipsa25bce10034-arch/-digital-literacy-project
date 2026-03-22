@@ -37,7 +37,20 @@ Solved numerous beginner coding problems on HackerRank to improve my coding skil
  Google Form Link: [Paste your link here]
 
 ### Task 4 – Email Etiquette
-Drafted two professional emails and created a social media do’s and don’ts checklist.
+
+In this task, I created two professional emails:
+1. Requesting an assignment submission extension
+2. Inquiry regarding a summer internship opportunity
+
+Both emails follow proper email etiquette, including clear subject lines, formal tone, structured content, and appropriate sign-offs.
+I also created a social media do’s and don’ts checklist to promote responsible online behavior among students.
+
+### Files Included:
+![Email Etiquette](task-4-email-etiquette/professional-emails.docx)
+![Email Etiquette](task-4-email-etiquette/social-media-checklist.md)
+
+### Learning Outcome:
+This task helped me understand how to communicate professionally through emails and maintain responsible behavior on social media platforms.
 
 ### Task 5 – Cybercrime Awareness
 Prepared a case study on cybercrime and created a prevention checklist for students.
