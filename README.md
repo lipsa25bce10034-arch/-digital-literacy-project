@@ -46,8 +46,9 @@ Both emails follow proper email etiquette, including clear subject lines, formal
 I also created a social media do’s and don’ts checklist to promote responsible online behavior among students.
 
 ### Files Included:
-![Email Etiquette](task-4-email-etiquette/task-4-email-etiquette/professional-emails.docs)
+
 ![Email Etiquette](task-4-email-etiquette/social-media-checklist.md)
+![Professional Emails](task-4-email-etiquette/professional-emails.pdf)
 
 ### Learning Outcome:
 This task helped me understand how to communicate professionally through emails and maintain responsible behavior on social media platforms.
