@@ -33,9 +33,14 @@ Solved numerous beginner coding problems on HackerRank to improve my coding skil
 ![Hackerrank](task-3-platforms/hackerrank-profile.png)
 ![Hackerrank](task-3-platforms/hackerrank-problem.png)
 ![Hackerrank](task-3-platforms/hackerrank.png)
+# Part B – Google Workspace Collaboration
+I created a *Digital Literacy Awareness Quiz* using Google Forms with exactly 5 questions, including multiple-choice and short-answer questions. The responses were collected in a Google Sheet.
 
- Google Form Link: [Paste your link here]
+*Files:*
+- [Google Form Screenshot](task-3-platforms/google-form-quiz.png)  
+- [Google Sheet Response Screenshot](task-3-platforms/google-form-responses.png)
 
+*Google Form Link:* [Click Here](https://forms.gle/Um6ZvcXZEHvEmvCE8)
 ### Task 4 – Email Etiquette
 
 In this task, I created two professional emails:
