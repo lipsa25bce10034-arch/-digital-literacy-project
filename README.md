@@ -54,7 +54,12 @@ I also created a social media do’s and don’ts checklist to promote responsib
 This task helped me understand how to communicate professionally through emails and maintain responsible behavior on social media platforms.
 
 ### Task 5 – Cybercrime Awareness
-Prepared a case study on cybercrime and created a prevention checklist for students.
+
+In this task, I created a case study on UPI payment fraud and a prevention checklist to spread awareness about online safety.
+
+### Files:
+- [Case Study](task-5-cybercrime/casestudy.md)
+- [Prevention Checklist](task-5-cybercrime/prevention-checklist.md)
 
 ---
 
