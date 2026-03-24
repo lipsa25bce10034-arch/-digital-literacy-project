@@ -2,6 +2,8 @@
 ## Student Details
 Name: Lipsa Rani Panda 
 Reg No: 25BCE10034 
+Branch: Btech Computer Science Engineering(Core)
+Year: 1st Year
 
 
 ## Project Overview
