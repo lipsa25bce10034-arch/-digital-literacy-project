@@ -87,7 +87,11 @@ In this task, I created a case study on UPI payment fraud and a prevention check
 - [Case Study](task-5-cybercrime/casestudy.md)
 - [Prevention Checklist](task-5-cybercrime/prevention-checklist.md)
 
----
+### Project Report
+
+The complete project report has been prepared according to the given guidelines, covering all five tasks along with reflections and learning outcomes.
+
+📄 [View Project Report](Project_Report.pdf)
 
 ## Conclusion
 This project helped me understand the importance of digital literacy, online safety, and professional communication. It also improved my knowledge of useful digital platforms.
